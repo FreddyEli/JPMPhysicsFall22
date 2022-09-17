@@ -29,5 +29,6 @@ Gramática: Preguntas básicas.
 
 ### Recursos
 * cuántica: https://www.youtube.com/watch?v=SzX-R38dZQw
-* caída libre: https://www.youtube.com/watch?v=wjguHnscScc
+* la curiosidad y ciencia: https://www.youtube.com/watch?v=wjguHnscScc
+* caída libre: https://www.youtube.com/watch?v=E43-CfukEgs
 * clase3.pdf
