@@ -14,7 +14,7 @@ Introducción a qué es la física y evaluación de preconcepciones del tema y d
 Vocabulario: Pequeña revisión de las ramas de la física y conceptos básicos.
 
 ## Clase 2: Introducción y mapa de la Física
-Plantear la pregunta ¿en dónde está la física en tu vida diaria? En todos lados, por su puesto. Explicar a los niños las ramas de la física a través del mpa de la física (mayormente física clásica), con vocabulario en inglés.
+Solución del exámen diagnóstico. Plantear la pregunta ¿en dónde está la física en tu vida diaria? En todos lados, por su puesto. Explicar a los niños las ramas de la física a través del mpa de la física (mayormente física clásica), con vocabulario en inglés.
 
 ### Recursos
 * clase2.pdf
