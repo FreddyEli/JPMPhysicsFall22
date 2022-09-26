@@ -32,3 +32,18 @@ Gramática: Preguntas básicas.
 * la curiosidad y ciencia: https://www.youtube.com/watch?v=wjguHnscScc
 * caída libre: https://www.youtube.com/watch?v=E43-CfukEgs
 * clase3.pdf
+
+## Clase 4: Kinematics/Cinemática
+Continuación de la explicación del fenómeno de caída libre. Plantear la pregunta "¿Existe una relación entre el tiempo de la caida de un objeto y la distancia recorrida?". Presentar ecuación de caída libre y los conceptos básicos de **Distancia, desplazamiento, rapidez, velocidad, aceleración y vector** (***distance, displacement, speed, velocity, acceleration and vector***).
+
+### Recursos:
+* Tres ecuaciones de la cinemática: https://www.fisicaenlinea.com/04cinematica/cinematica06-ecuacionescinematica.html
+* Bugatti: https://www.youtube.com/watch?v=PkkV1vLHUvQ
+* World's fastest things:  https://www.thesolarcentre.co.uk/blog/2016/04/27/fastest-things-world/
+* clase4.pdf
+
+## Clase 5: Reflexión grandes científicos y científicas.
+
+Se separó al grupo en dos, hombres y mujeres. Se les impartió una clase sobre la historia de la ciencia, repasando diversos científicos famosos (hombres y mujeres) y sus más grandes aórtaciones con una perspectiva de inclusión de género.
+
+## Clase 6: Kinematics 2 and The three laws of motion.
